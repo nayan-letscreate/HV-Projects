@@ -1,3 +1,3 @@
-# Welcome to My First Repository. This is fun!
+# welcome to My First Repository. this is fun!
 
 Nayan
